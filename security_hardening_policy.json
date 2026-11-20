@@ -1,0 +1,18 @@
+{
+  "bundle_version": "5.0.0",
+  "generated_at_utc": "2026-11-20T06:59:53.920509+00:00",
+  "ui_layout": {
+    "tabs": 30,
+    "compact_window": {
+      "width": 310,
+      "height": 355
+    }
+  },
+  "archive_safety_rules": {
+    "normalized_relative_paths_only": true,
+    "no_parent_traversal": true,
+    "no_absolute_paths": true,
+    "no_symlinks": true,
+    "sha256_manifest_included": true
+  }
+}
